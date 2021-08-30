@@ -8,7 +8,7 @@ presented at the 40th International Workshop on Bayesian Inference and Maximum E
 The file HIS.zip contains the scripts with implementations for the Haphazard Intentional Sampling, Rerandomization and Pure Random Sampling methods. 
 The main script is Driver_HH_RR.R. 
 
-Importante notice: The scripts require the Gurobi solver installation (https://www.gurobi.com). 
+Important notice: To run the scripts, the Gurobi solver must be installed. Information on obtaining and installing Gurobi can be found at www.gurobi.com. 
 Although Gurobi is a commercial software, free academic licences are available, see https://www.gurobi.com/academia/academic-program-and-licenses/.
 
 Questions regarding scripts usage may be sent to rafaelwaissman@gmail.com.
